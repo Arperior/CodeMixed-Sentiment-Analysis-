@@ -15,3 +15,5 @@ My fine-tuned MuRIL - https://drive.google.com/drive/folders/1dEvbtsb5QdH087rkjM
 # Corrections --
 
 The feature extraction procedure is based on concatenation not an ensemble method.
+
+Although the given code is for Hinglish language only, the given approach can be used for Multilingual NLP tasks as well
