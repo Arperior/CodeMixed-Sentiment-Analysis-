@@ -1,7 +1,9 @@
 # Hinglish-Sentiment-Analysis-
 My approach for classifying yt comments written in Hingslish format.
 
-Dataset Available at https://www.kaggle.com/competitions/paradox-ml-challenge
+Challenge Statement at https://www.kaggle.com/competitions/paradox-ml-challenge
+
+Dataset available at : https://huggingface.co/datasets/hammadali1805/yt-comments-edu-IN
 
 Please do make sure to change CSV locations as well as headings as per your needs.
 
